@@ -1,1 +1,1 @@
-# formation-g-im-trie
+# formation-geoimetrie
